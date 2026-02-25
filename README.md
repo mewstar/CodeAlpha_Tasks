@@ -60,6 +60,7 @@ We calculate:
 ## Project Overview
 
 This project performs a comprehensive Exploratory Data Analysis (EDA) on the Black Friday Sales dataset from Kaggle.
+Source: [Black Friday Sales](https://www.kaggle.com/datasets/pranavuikey/black-friday-sales-eda/data)
 
 The goal is to uncover patterns in customer purchasing behavior and provide data-driven insights that could inform marketing and sales strategies.
 
