@@ -24,7 +24,7 @@ The scraper acts like a robot that clicks through the book pages, reads the titl
 ---
 
 ### 2. Analysis
-Once we have `books.csv`, we use **Pandas** to explore the data.
+Once we have `Books.csv`, we use **Pandas** to explore the data.
 
 We calculate:
 
